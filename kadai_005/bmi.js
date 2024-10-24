@@ -1,5 +1,9 @@
 
-let weight=68
-let height=1.7
+let weight;
+let height;
 
-console.log(68 / (1.7 ** 2));
+weight='68';
+height='1.7';
+
+
+console.log(weight / (height ** 2));
