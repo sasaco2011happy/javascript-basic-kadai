@@ -8,10 +8,11 @@ for (let i= 0; i <= 15; i++)  {
 //while (条件式) { 条件を満たしている間、繰り返す処理}
 
 
- let i = -1
+let i = 0
 
-while ( i++ <= 14 ) {
+while ( i <= 14 ) {
     //条件を満たしている間、繰り返す処理
 
     console.log(holidays[i]);
+    i++
   }
