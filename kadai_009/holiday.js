@@ -10,7 +10,7 @@ for (let i= 0; i <= 15; i++)  {
 
 let i = 0
 
-while ( i <= 14 ) {
+while ( i <= 15 ) {
     //条件を満たしている間、繰り返す処理
 
     console.log(holidays[i]);
